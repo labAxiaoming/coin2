@@ -4,7 +4,8 @@
 
 1、图片素材
 （使用python3.6, spyder开发环境，只能求分离的、色差明显的物体数量）
-
+https://raw.githubusercontent.com/labAxiaoming/coin2/678adb94dd6f0eaf49314ed48bd8ae6a66f5f04a/0.jpg
+https://raw.githubusercontent.com/labAxiaoming/coin2/678adb94dd6f0eaf49314ed48bd8ae6a66f5f04a/1.jpg
 
 
 2、
@@ -104,9 +105,12 @@ title('有'+str(numcoin)+'个米粒')
 plt.tight_layout()
 
 得到如下：
+https://raw.githubusercontent.com/labAxiaoming/coin2/678adb94dd6f0eaf49314ed48bd8ae6a66f5f04a/2.png
+
 可能有误差，有些黏连，调整膨胀、腐蚀的系数
 
 调整系数
+https://raw.githubusercontent.com/labAxiaoming/coin2/678adb94dd6f0eaf49314ed48bd8ae6a66f5f04a/3.png
 
 
 
@@ -169,6 +173,7 @@ imshow(y5)
 title('最大的一粒尺寸为%d像素'%(tj.max()))
 得到下图
 
+https://raw.githubusercontent.com/labAxiaoming/coin2/678adb94dd6f0eaf49314ed48bd8ae6a66f5f04a/5.png
 
 
 
