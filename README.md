@@ -4,7 +4,7 @@
 
 1、图片素材
 （使用python3.6, spyder开发环境，只能求分离的、色差明显的物体数量）
-https://raw.githubusercontent.com/labAxiaoming/coin2/678adb94dd6f0eaf49314ed48bd8ae6a66f5f04a/0.jpg
+![](https://raw.githubusercontent.com/labAxiaoming/coin2/678adb94dd6f0eaf49314ed48bd8ae6a66f5f04a/0.jpg)
 https://raw.githubusercontent.com/labAxiaoming/coin2/678adb94dd6f0eaf49314ed48bd8ae6a66f5f04a/1.jpg
 
 
